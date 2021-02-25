@@ -1,0 +1,1147 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temat_DE",
+				"temat_DE"
+			],
+			[
+				"dane",
+				"dane_mailing_post"
+			],
+			[
+				"ka",
+				"kampania"
+			],
+			[
+				"maili",
+				"mailing_dane"
+			],
+			[
+				"kama",
+				"kampanie_model"
+			],
+			[
+				"ma",
+				"mailing_dane"
+			],
+			[
+				"c",
+				"ctr"
+			],
+			[
+				"r_j",
+				"r_json_GroupCount"
+			],
+			[
+				"r_json_",
+				"r_json_Data"
+			],
+			[
+				"kam",
+				"kampanie"
+			],
+			[
+				"szc",
+				"szczegoly_kampanii_redlink"
+			],
+			[
+				"r_",
+				"r_json_CTR"
+			],
+			[
+				"res",
+				"responseCtr"
+			],
+			[
+				"http",
+				"https"
+			],
+			[
+				"kamp",
+				"kampanie_model"
+			],
+			[
+				"id",
+				"id_kampanii"
+			],
+			[
+				"EN",
+				"EN"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"wyslij_",
+				"wyslij_mailing_redlink"
+			],
+			[
+				"red",
+				"redlink_handlowiec_model"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"da",
+				"data_wyslania"
+			],
+			[
+				"data",
+				"data_wyslania"
+			],
+			[
+				"dat",
+				"data_wyslania"
+			],
+			[
+				"wyslij",
+				"wyslij_test_redlink"
+			],
+			[
+				"r",
+				"r_json"
+			],
+			[
+				"J",
+				"JsonDict"
+			],
+			[
+				"adres",
+				"adres_strony_mailingu"
+			],
+			[
+				"temat",
+				"temat_PL"
+			],
+			[
+				"ad",
+				"adres_strony_mailingu"
+			],
+			[
+				"te",
+				"temat_DE"
+			],
+			[
+				"tema",
+				"temat_EN"
+			],
+			[
+				"tem",
+				"temat_PL"
+			],
+			[
+				"nazwa",
+				"nazwa_mailingu"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"mailing",
+				"mailingForm"
+			],
+			[
+				"tes",
+				"text-align-last\tproperty"
+			],
+			[
+				"fo",
+				"form-container"
+			],
+			[
+				"okla",
+				"okladka50"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"Na",
+				"NazwaFirmy"
+			],
+			[
+				"imie",
+				"imienazwisko"
+			],
+			[
+				"ile",
+				"ilePL"
+			],
+			[
+				"expe",
+				"except"
+			],
+			[
+				"bac",
+				"backColorText"
+			],
+			[
+				"le",
+				"leng"
+			],
+			[
+				"string",
+				"stringBez"
+			],
+			[
+				"dodaj",
+				"dodajAll"
+			],
+			[
+				"we",
+				"wersjaJezyk"
+			],
+			[
+				"dod",
+				"dodajAll"
+			],
+			[
+				"la",
+				"lang"
+			],
+			[
+				"Tre",
+				"True"
+			],
+			[
+				"akcesoria",
+				"akcesoriaIndexy"
+			],
+			[
+				"pro",
+				"prodQ"
+			],
+			[
+				"prod",
+				"prodQ"
+			],
+			[
+				"akce",
+				"akcesoriaIndexy"
+			],
+			[
+				"valu",
+				"value"
+			],
+			[
+				"aks",
+				"akcesoriaIndexy"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"edyt",
+				"edytujceny_powerbank"
+			],
+			[
+				"produkt",
+				"produktA"
+			],
+			[
+				"lini",
+				"liniatop2"
+			],
+			[
+				"za",
+				"zapytanieOfertowe"
+			],
+			[
+				"lis",
+				"listaIndexow"
+			],
+			[
+				"p",
+				"produkt"
+			],
+			[
+				"produ",
+				"produkt"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"pop",
+				"popup"
+			],
+			[
+				"js",
+				"JsonDict"
+			],
+			[
+				"doda",
+				"dodajindexy"
+			],
+			[
+				"idD",
+				"idDivJayGray"
+			],
+			[
+				"so",
+				"sowakID"
+			],
+			[
+				"e",
+				"elif"
+			],
+			[
+				"graw",
+				"grawerowanie"
+			],
+			[
+				"in",
+				"indeks"
+			],
+			[
+				"grawer",
+				"grawerowaniePRzygotowalnia"
+			],
+			[
+				"akc",
+				"akcesoria"
+			],
+			[
+				"gra",
+				"grawerIn"
+			],
+			[
+				"grw",
+				"grawerIn"
+			],
+			[
+				"doa",
+				"dodajindexy"
+			],
+			[
+				"kolor",
+				"kolorKwadrat"
+			],
+			[
+				"a",
+				"akceNazwa"
+			],
+			[
+				"dos",
+				"dostepne_kolory"
+			],
+			[
+				"nie",
+				"niebieski"
+			],
+			[
+				"dec",
+				"text-decoration\tproperty"
+			],
+			[
+				"prze",
+				"przeliczonaCena"
+			],
+			[
+				"cena",
+				"cenaKl"
+			],
+			[
+				"z",
+				"zmienProcent"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"do",
+				"dodajAll"
+			],
+			[
+				"li",
+				"licznikprod"
+			],
+			[
+				"lin",
+				"linetop"
+			],
+			[
+				"line",
+				"linebottom"
+			],
+			[
+				"zdje",
+				"zdjecie1"
+			],
+			[
+				"set",
+				"setFont"
+			],
+			[
+				"dr",
+				"drawString"
+			],
+			[
+				"sh",
+				"showPage"
+			],
+			[
+				"pdf",
+				"pdf_gen"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"for",
+				"formCena"
+			],
+			[
+				"form",
+				"formCena"
+			],
+			[
+				"ce",
+				"cena_netto_katalogowa"
+			],
+			[
+				"model",
+				"ModelForm"
+			],
+			[
+				"M",
+				"ModelForm"
+			],
+			[
+				"arr",
+				"arrStr"
+			],
+			[
+				"T",
+				"Twoja_cena"
+			],
+			[
+				"product",
+				"productForm"
+			],
+			[
+				"cennik",
+				"cennikUSB"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"mag",
+				"margin-top\tproperty"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"ra",
+				"radioValue"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ukry",
+				"ukrywanie"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mailingi_www/nowy_mailing/admin.py",
+			"settings":
+			{
+				"buffer_size": 137,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mailingi_www/nowy_mailing/views.py",
+			"settings":
+			{
+				"buffer_size": 15530,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mailingi_www/nowy_mailing/urls.py",
+			"settings":
+			{
+				"buffer_size": 486,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mailingi_www/nowy_mailing/templates/zestawienie_kampanii.html",
+			"settings":
+			{
+				"buffer_size": 2467,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mailingi_www/nowy_mailing/templates/wyslijmailing.html",
+			"settings":
+			{
+				"buffer_size": 9631,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mailingi_www/nowy_mailing/templates/detale_kampanii.html",
+			"settings":
+			{
+				"buffer_size": 9298,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mailingi_www/nowy_mailing/models.py",
+			"settings":
+			{
+				"buffer_size": 1695,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mailingi_www/mailingi_www/settings.py",
+			"settings":
+			{
+				"buffer_size": 3183,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "nazwa_kampanii = ,redlink_id_a_sitek_pl = ,redlink_id_c_idziak_pl = ,redlink_id_i_rosinska_pl = ,redlink_id_m_mikolajczyk_pl = ,redlink_id_m_kluszczynska_pl = ,redlink_id_t_piszczola_pl = ,redlink_id_a_biegajlo_en = ,redlink_id_j_nieglos_en = ,redlink_id_l_urbanczyk_en = ,redlink_id_m_prange_en = ,redlink_id_m_bujakowska_en = ,redlink_id_p_strzelecki_en = ,redlink_id_l_urbanczyk_de = ,redlink_id_m_prange_de = ,redlink_id_m_bujakowska_de = ,redlink_id_a_biegajlo_fr = ,redlink_id_m_prange_fr = ,redlink_id_m_sobaszek_it = ,\nredlink_id_a_sitek_pl\nredlink_id_c_idziak_pl\nredlink_id_i_rosinska_pl\nredlink_id_m_mikolajczyk_pl\nredlink_id_m_kluszczynska_pl\nredlink_id_t_piszczola_pl\nredlink_id_a_biegajlo_en\nredlink_id_j_nieglos_en\nredlink_id_l_urbanczyk_en\nredlink_id_m_prange_en\nredlink_id_m_bujakowska_en\nredlink_id_p_strzelecki_en\nredlink_id_l_urbanczyk_de\nredlink_id_m_prange_de\nredlink_id_m_bujakowska_de\nredlink_id_a_biegajlo_fr\nredlink_id_m_prange_fr\nredlink_id_m_sobaszek_it",
+			"settings":
+			{
+				"buffer_size": 980,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing",
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing/mailingi_www",
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing/mailingi_www/mailingi_www",
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing/mailingi_www/nowy_mailing",
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing/mailingi_www/nowy_mailing/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing/mailingi_www/nowy_mailing/views.py",
+		"/C/Users/asgard_59/Pictures/MAILING Festiwal Marketingu 2020/www/pl.html",
+		"/C/Users/asgard_59/Pictures/MAILING Festiwal Marketingu 2020/www/redlink_pl.html",
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing/mailingi_www/nowy_mailing/urls.py",
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing/mailingi_www/mailingi_www/urls.py",
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing/mailingi_www/nowy_mailing/templates/zestawienie_kampanii.html",
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing/mailingi_www/nowy_mailing/templates/detale_kompanii.html",
+		"/C/Users/asgard_59/Documents/Skrypty/BAZA TESTOWA - WGRYWANIE WD/baza mail/strona_WWW_mailing/mailingi_www/nowy_mailing/migrations/0004_auto_20200721_1117.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_pageMulti/USB_page/usbpage.sublime-workspace",
+		"/C/Users/asgard_59/Pictures/Outdoor/www/fr.html",
+		"/C/Users/asgard_59/Pictures/Outdoor/www/en.html",
+		"/C/Users/asgard_59/Pictures/Outdoor/www/de.html",
+		"/C/Users/asgard_59/Pictures/Outdoor/www/pl.html",
+		"/C/Users/asgard_59/Documents/tabel.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/MBDE.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/MPFR.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/PSEN.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/MSEN.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/MPEN.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/MBEN.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/LUDE.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/ABFR.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/ABEN.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/LUEN.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/JNEN.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/php/mail.php",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_pageMulti/USB_page/src/templates/landingENG.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_pageMulti/USB_page/src/templates/edytuj_cenybootstrap.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/TP.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/MM.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/IR.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/MK.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/CI.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/AS.html",
+		"/C/Users/asgard_59/Pictures/nowy katalog JZ 2020/stronki/de.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_pageMulti/USB_page/src/usbcennik/views.py",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/index.html",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/css/promocja.css",
+		"/C/Users/asgard_59/Documents/Skrypty/MailingKatalog/indexBoot.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_pageMulti/USB_page/src/templates/landingFR.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_pageMulti/USB_page/src/static/landing.css",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_pageMulti/USB_page/src/templates/edytuj_ceny.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/USBproducts/admin.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/USBproducts/serializers.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/db.sqlite3",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/USBproducts/urls.py",
+		"/C/Users/asgard_59/Documents/Skrypty/ceny konkurencji/Macma-bledy-2020-03-16.txt",
+		"/C/Users/asgard_59/Documents/Skrypty/ceny konkurencji/Inspirion-bledy-2020-03-16.txt",
+		"/C/Users/asgard_59/Documents/Skrypty/ceny konkurencji/PAR-bledy-2020-03-16.txt",
+		"/C/Users/asgard_59/Documents/Skrypty/ceny konkurencji/Easy_Gifts-bledy-2020-03-16.txt",
+		"/C/Users/asgard_59/Documents/Skrypty/ceny konkurencji/MOB-bledy-2020-03-16.txt",
+		"/C/Users/asgard_59/Documents/Skrypty/ceny konkurencji/Axpol-bledy-2020-03-16.txt",
+		"/C/Users/asgard_59/Documents/Skrypty/ceny konkurencji/ANDA-bledy-2020-03-16.txt",
+		"/C/Users/asgard_59/Documents/Skrypty/Wylogowanie urzyt/terminal in.txt",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/USBproducts/views.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/usbcennik/views.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/USBproducts/forms.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/usbcennik/settings.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/templates/kopia_asgard.html",
+		"/V/stopki_mail/02 miedzynarodowy/bujakowska_monika.html",
+		"/V/stopki_mail/02 miedzynarodowy/muszynska_aleksandra.html",
+		"/V/stopki_mail/02 miedzynarodowy/sobaszek_malgorzata.html",
+		"/V/stopki_mail/02 miedzynarodowy/strzelecki_pawel.html",
+		"/V/stopki_mail/02 miedzynarodowy/trafna_adrianna.html",
+		"/V/stopki_mail/02 miedzynarodowy/urbanczyk_lukasz.html",
+		"/V/stopki_mail/02 miedzynarodowy/urbaniak_arkadiusz.html",
+		"/V/stopki_mail/02 miedzynarodowy/prange_marianna.html",
+		"/V/stopki_mail/02 miedzynarodowy/nieglos_jakub.html",
+		"/V/stopki_mail/01 krajowy/sitek_agnieszka.html",
+		"/V/stopki_mail/01 krajowy/rosinska_iwona.html",
+		"/V/stopki_mail/01 krajowy/piszczola_tomasz.html",
+		"/V/stopki_mail/01 krajowy/mikolajczyk_magdalena.html",
+		"/V/stopki_mail/01 krajowy/kluszczynska_marlena.html",
+		"/V/stopki_mail/01 krajowy/idziak_cezary.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/index.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/usbcennik/utils.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/static/pdfstyle.css",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/templates/cennikUSB.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/templates/edytuj_ceny.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/templates/edytuj_cenybootstrap.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/Lib/site-packages/django/views/templates/technical_500.html",
+		"/C/Users/asgard_59/Documents/Skrypty/indesign_baza/run8.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/templates/base.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/USBproducts/models.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/src/manage.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/Lib/site-packages/django/utils/module_loading.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/USB_page/USB_page/db.sqlite3",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/PDFgen/urls.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/PDFgen/serielizers.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/PDFgen/serializers.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/USBgenerator/toPDF.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/PDFgen/models.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/templates/home.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/templates/usb.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/templates/base.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/USBgenerator/settings.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/PDFgen/admin.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/USBgenerator/views.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/PDFgen/xmldata.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/PDFgen/xmldata",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/USBgenerator/__pycache__/toPDF.py",
+		"/C/Users/asgard_59/Documents/Skrypty/Django/testy/USBgenerator/USBgenerator/templates/bootstrap.html",
+		"/C/Users/asgard_59/Documents/Skrypty/Promocja wyslij logo/wyslijdane.php",
+		"/C/Users/asgard_59/Downloads/my-image-name (2).jpeg",
+		"/C/Users/asgard_59/Documents/mailing.html"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"dane_mailing[-2]",
+			"dane_mailing[1]",
+			"dane_mailing[0]",
+			"'$12345Asgard'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dane_mailing['adres_strony_mailingu']",
+			"dane_mailing['temat_PL']",
+			"dane_mailing['nazwa_mailingu']",
+			"passw"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mailingi_www/nowy_mailing/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mailingi_www/nowy_mailing/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11517,
+								11517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2814.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mailingi_www/nowy_mailing/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								484,
+								484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mailingi_www/nowy_mailing/templates/zestawienie_kampanii.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "mailingi_www/nowy_mailing/templates/wyslijmailing.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6796,
+								6809
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1796.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "mailingi_www/nowy_mailing/templates/detale_kampanii.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1003,
+								1003
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "mailingi_www/nowy_mailing/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1550,
+								1550
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "mailingi_www/mailingi_www/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								836,
+								836
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								980,
+								549
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 72.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
